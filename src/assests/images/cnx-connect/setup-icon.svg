@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="128" viewBox="0 0 126 128">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f57d2b"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_4492" data-name="Group 4492" transform="translate(-241 -1386)">
+    <rect id="Rectangle_7951" data-name="Rectangle 7951" width="126" height="128" transform="translate(241 1386)" fill="url(#radial-gradient)"/>
+    <g id="Group_4166" data-name="Group 4166" transform="translate(-2)">
+      <g id="Ellipse_154" data-name="Ellipse 154" transform="translate(266.402 1410.325)" stroke="#fff" stroke-width="2">
+        <circle cx="39.425" cy="39.425" r="39.425" stroke="none"/>
+        <circle cx="39.425" cy="39.425" r="38.425" fill="none"/>
+      </g>
+      <g id="Group_4166-2" data-name="Group 4166">
+        <line id="Line_115" data-name="Line 115" y2="33.535" transform="translate(292.817 1431.614)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <g id="Ellipse_155" data-name="Ellipse 155" transform="translate(289.269 1435.557)" fill="#fff" stroke="#fff" stroke-width="2">
+          <circle cx="3.548" cy="3.548" r="3.548" stroke="none"/>
+          <circle cx="3.548" cy="3.548" r="2.548" fill="none"/>
+        </g>
+        <line id="Line_115-2" data-name="Line 115" y1="33.535" transform="translate(305.433 1431.614)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <g id="Ellipse_155-2" data-name="Ellipse 155" transform="translate(301.885 1454.11)" fill="#fff" stroke="#fff" stroke-width="2">
+          <circle cx="3.548" cy="3.548" r="3.548" stroke="none"/>
+          <circle cx="3.548" cy="3.548" r="2.548" fill="none"/>
+        </g>
+        <line id="Line_115-3" data-name="Line 115" y2="33.535" transform="translate(318.049 1431.614)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <g id="Ellipse_155-3" data-name="Ellipse 155" transform="translate(314.501 1441.085)" fill="#fff" stroke="#fff" stroke-width="2">
+          <circle cx="3.548" cy="3.548" r="3.548" stroke="none"/>
+          <circle cx="3.548" cy="3.548" r="2.548" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

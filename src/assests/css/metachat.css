@@ -1,0 +1,748 @@
+.nav-btn a.cnx-slide{
+    border: 2px solid #00AB00;
+}
+.cnx-slide:hover{
+    box-shadow: inset 13em 0 0 0 #00AB00;
+}
+.slide-metachat:hover,
+.slide-metachat:focus {
+    box-shadow: inset 13em 0 0 0 #00AB00;
+    border-color: #00AB00;
+    color: #fff;
+}
+.product-wraper ul li.active-page-metachat a{
+    color: #00AB00;
+}
+.nav-btn-metachat a {
+    border: 2px solid #00AB00;
+    padding: 8px 25px;
+    border-radius: 50px;
+    font-weight: 600;
+}
+.metachat-page ul li img:last-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(1) a img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(1) a:hover img:first-child {
+    display: block;
+}
+.metachat-page ul li:nth-of-type(1) a:hover img:last-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(1) a:hover {
+    color: #9E1EE3;
+}
+.metachat-page ul li:nth-of-type(1) a img:last-child {
+    display: block;
+    position: relative;
+}
+.metachat-page ul li:nth-of-type(3) a:hover img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(3) a:hover {
+    color: #FED236;
+}
+.metachat-page ul li:nth-of-type(3) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.metachat-page ul li:nth-of-type(4) a img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(4) a:hover {
+    color: #00AB00;
+}
+.metachat-page ul li:nth-of-type(4) a img:last-child {
+    display: block;
+}
+.metachat-page ul li:nth-of-type(5) a:hover img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(5) a:hover {
+    color: #E28B00;
+}
+.metachat-page ul li:nth-of-type(5) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+
+.metachat-page ul li:nth-of-type(6) a:hover img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(6) a:hover {
+    color: #00D000;
+}
+.metachat-page ul li:nth-of-type(6) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+
+.metachat-page ul li:nth-of-type(7) a:hover img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(7) a:hover {
+    color: #0271E3;
+}
+.metachat-page ul li:nth-of-type(7) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.metachat-page ul li:nth-of-type(8) a:hover img:first-child {
+    display: none;
+}
+.metachat-page ul li:nth-of-type(8) a:hover {
+    color: #F57D2B;
+}
+.metachat-page ul li:nth-of-type(8) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.mc_banner-sec{
+    background-color: #D9D9D9;
+    position: relative;
+    z-index: 99;
+}
+.mc_banner-shape{
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top: 50px;
+    z-index: -9;
+}
+.mc_banner-wraper{
+    text-align: center;
+    margin-top: 50px;
+}
+.banner-content-wrap.mc_banner-content-wrap a.btn_1.slide{
+    background-color: #00AB00;
+    border: 2px solid #00AB00;
+    color: #fff;
+}
+.banner-content-wrap.mc_banner-content-wrap a.btn_1.slide:hover{
+    box-shadow: inset 13em 0 0 0 #026402;
+    border: 2px solid #026402;
+}
+.mc_banner-content-wrap h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+}
+.mc_banner-content-wrap p {
+    font-size: 25px;
+    line-height: initial;
+    margin: 15px 0px 30px;
+    color: #000;
+}
+.mc_banner-content-wrap a{
+    color: #0271E3;
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.mc_banner-img{
+    margin-top: 30px;
+}
+.mc_encrypted-chatting-sec{
+    background-color: #000;
+    background-image: url("../images/metachat/encrypted-bg-img.svg");
+    padding: 100px 0px 250px 0px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.mc_sec h2{
+    border-left: 10px solid #10BD53;
+    font-size: 47px;
+    font-weight: bold;
+    line-height: 30px;
+    text-indent: 15px;
+    margin-bottom: 20px;
+}
+.chatting-protocols{
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.protocol{
+    width: 100%;
+    max-width: 317px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.chatting-protocols .protocol:nth-child(3){
+    margin-right: 0px;
+}
+.protocol h3{
+    color: #10BD53;
+    font-size: 30px;
+    margin: 15px 0px 10px;
+    font-weight: 700;
+}
+.protocol p{
+    font-size: 22px;
+    line-height: initial;
+    font-weight: 600;
+}
+.mc_earning-sec{
+    background-color: #D9D9D9;
+    padding: 100px 0px 300px 0px;
+    position: relative;
+    z-index: 99;
+}
+.mc_earning-sec:after{
+    content:"";
+    background-image: url("../images/metachat/eraning-after-img.svg");
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 293px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.mc_earning-sec:before{
+    content: "";
+    background-image: url(../images/metachat/channe-before.svg);
+    position: absolute;
+    left: 0;
+    background-repeat: no-repeat;
+    height: 835px;
+    width: 660px;
+    bottom: 0;
+    background-size: 100% 100%;
+    z-index: -9;
+}
+.earning-head h3,.earning-head p,.channel-content h3,.channel-content p{
+    color: #000;
+}
+.channels-main{
+    margin-top: 100px;
+}
+.earning-head h2{
+    color: #000;
+}
+.earning-head p{
+    font-size: 30px;
+    color: #000;
+    opacity: 0.5;
+    font-weight: 500;
+    margin-top: 30px;
+    line-height: 45px;
+}
+.channel-subscription{
+    display: flex;
+}
+.channel-content{
+    padding-left: 50px;
+    width: 100%;
+    max-width: 385px;
+}
+.channel-content p{
+    color: #000;
+    opacity: 0.5;
+    font-weight: 600;
+    line-height: 32px;
+    font-size: 20px;
+}
+.channel-content h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+.channel-content a{
+    background: transparent linear-gradient(180deg, #02E336 0%, #10BD53 100%) 0% 0% no-repeat padding-box;
+    border-radius: 70px;
+    padding: 13px 45px;
+    font-weight: 500;
+    color: #fff;
+    font-size: 22px;
+}
+.channel-subscription.paid-channels{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.simple-secure-sec{
+    background-color: #000;
+    padding:100px 0px 400px 0px;
+    position: relative;
+    z-index: 99;
+}
+.simple-secure-sec:after{
+    content: "";
+    background-image: url(../images/metachat/simple-secure-line.svg);
+    background-repeat: no-repeat;
+    width: 1040px;
+    height: 277px;
+    position: absolute;
+    bottom: 0;
+    background-size: 100% 100%;
+    z-index: -9;
+    right: 0;
+}
+.simple-secure-sec:before{
+    content: "";
+    width: 324px;
+    background-image: url(../images/metachat/simple-secure-shape.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    height: 377px;
+    background-size: 100% 100%;
+    bottom: 0;
+    z-index: -99;
+}
+.simple-secure-head p{
+    color: #fff;
+    opacity: 0.5;
+    font-size: 30px;
+    font-weight: 500;
+}
+.chat-security{
+    width: 100%;
+    max-width: 430px;
+    padding:25px;
+    border: 2px solid #10BD53;
+    border-radius: 28px;
+    margin-right: 30px;
+}
+.chatting-security{
+    margin-top: 60px;
+    display: flex;
+}
+.chatting-security .chat-security:last-child{
+    margin-right: 0;
+}
+.chat-security h3{
+    color: #10BD53;
+    font-size: 27px;
+    font-weight: bold;
+}
+.chat-security p{
+    font-size: 20px;
+    color: #fff;
+    line-height: 30px;
+    font-weight: 500;
+}
+.install-meta-chat{
+    padding: 100px 0px 200px 0px;
+    background-color:#D9D9D9 ;
+}
+.install-metachat-head h2{
+    color: #000;
+}
+.install-metachat-head p{
+    color: #000;
+    opacity: 0.5;
+    font-size: 30px;
+    font-weight: 500;
+}
+.installing-platforms{
+    display: flex;
+    margin-top: 100px;
+}
+.install-platform{
+    background: #0000004D 0% 0% no-repeat padding-box;
+    border-radius: 26px;
+    width: 100%;
+    max-width: 293px;
+    text-align: center;
+    padding: 30px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.installing-platforms .install-platform:last-child{
+    margin-right: 0;
+}
+.installing-platforms .install-platform:nth-child(2n-4){
+    background: #10BD53 0% 0% no-repeat padding-box;
+}
+.install-platform p{
+    font-size: 34px;
+    line-height: initial;
+    margin:15px 0 0 0;
+}
+.cnx-payment-integration{
+    background-color: #000;
+    padding: 100px 0px 236px 0px;
+    position: relative;
+    z-index: 99;
+    border-bottom: 2px solid #043517;
+}
+.cnx-payment-integration:after{
+    content: "";
+    background-image: url("../images/metachat/payment-shape.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 426px;
+    height: 278px;
+    right: 0;
+    top: 0;
+    background-size: 100% 100%;
+    z-index: -9;
+}
+.cnx-payment-integration:before{
+    content: "";
+    background-image: url("../images/metachat/payment-big-shape.svg");
+    background-repeat: no-repeat;
+    width: 140px;
+    position: absolute;
+    right: 0;
+    height: 673px;
+    top: 300px;
+    background-size: 100% 100%;
+    z-index: -9;
+}
+.cnx-payment-process{
+    display: flex;
+    margin-top: 80px;
+}
+.cnx-head p{
+    color: #fff;
+    opacity: 0.7;
+    font-size: 30px;
+}
+.process-payment{
+    width: 100%;
+    max-width: 270px;
+    margin-right: 60px;
+}
+.process-payment h3{
+    font-size: 27px;
+    color: #10BD53;
+    margin: 15px 0px;
+    font-weight: 600;
+}
+.cnx-payment-process .process-payment:last-child{
+    margin-right: 0px;
+}
+.process-payment p{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+@media all and (max-width: 1440px){
+    .mc_banner-shape{
+        width: 30%;
+    }
+    .mc_earning-sec:after{
+        height: 50%;
+        width: 146px;
+        z-index: -9;
+    }
+    .simple-secure-sec:before{
+        width: 244px;
+        height: 277px;
+    }
+    .simple-secure-sec:after{
+        width: 550px;
+        height: 147px;
+    }
+    .simple-secure-sec{
+        padding: 100px 0 250px 0;
+    }
+}
+@media all and (max-width: 1199px){
+    .mc_sec h2{
+        font-size: 40px;
+    }
+}
+@media all and (max-width: 991px){
+    .product-toggle-btn{
+        display:block;
+        width: 100%;
+        max-width: 200px;
+        background-color: #00AB00;
+        border: 2px solid #00AB00;
+        font-size: 18px;
+        color: #fff;
+        font-weight: 500;
+        border-radius: 50px;
+        padding: 7px 10px;
+        margin-left: auto;
+    }
+    .mc_banner-content-wrap h1{
+        font-size: 40px;
+    }
+    .mc_banner-content-wrap p{
+        font-size: 22px;
+    }
+    .mc_banner-content-wrap a{
+        font-size: 18px;
+    }
+    .mc_encrypted-chatting-sec{
+        padding: 50px 0 150px 0;
+    }
+    .mc_sec h2{
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .protocol h3{
+        font-size: 28px;
+    }
+    .protocol p{
+        font-size: 20px;
+    }
+    .protocol{
+        margin-right: 30px;
+    }
+    .mc_earning-sec{
+        padding: 50px 0 200px;
+    }
+    .earning-head p{
+        font-size: 22px;
+        line-height: inherit;
+    }
+    .channels-main {
+        margin-top: 50px;
+    }
+    .channel-content h3{
+        font-size: 30px;
+    }
+    .channel-content p{
+        font-size: 18px;
+    }
+    .channel-subscription.paid-channels{
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+    .channel-content{
+        padding-left: 30px;
+    }
+    .channel-content a{
+        padding: 10px 25px;
+        font-size: 20px;
+    }
+    .simple-secure-sec{
+        padding: 50px 0 250px;
+    }
+    .simple-secure-head h2{
+        font-size: 30px;
+    }
+    .simple-secure-head p{
+        font-size: 25px;
+        line-height: initial;
+    }
+    .simple-secure-sec:before {
+        width: 194px;
+        height: 227px;
+    }
+    .simple-secure-sec:after {
+        width: 547px;
+        height: 145px;
+    }
+    .chat-security{
+        padding: 20px;
+    }
+    .chat-security h3{
+        font-size: 22px;
+    }
+    .chat-security p{
+        font-size: 18px;
+    }
+    .chatting-security{
+        margin-top: 30px;
+    }
+    .install-meta-chat{
+        padding: 50px 0px;
+    }
+    .installing-platforms{
+        margin-top: 50px;
+    }
+    .install-metachat-head p{
+        line-height: initial;
+        font-size: 25px;
+    }
+    .install-platform p{
+        font-size: 30px;
+    }
+    .cnx-payment-integration{
+        padding: 50px 0 100px 0;
+    }
+    .cnx-head p{
+        font-size: 25px;
+        line-height: initial;
+    }
+    .cnx-payment-process{
+        margin-top:50px;
+        flex-wrap: wrap;
+    }
+    .cnx-payment-process .process-payment:nth-child(4n-2){
+        margin-right: 0;
+    }
+    .cnx-payment-integration:after{
+        width: 300px;
+        height: 188px;
+    }
+    .cnx-payment-integration:before{
+        width: 125px;
+        height: 600px;
+    }
+    .process-payment{
+        margin-bottom: 20px;
+    }
+    .process-payment h3{
+        font-size: 22px;
+        margin: 10px 0px;
+    }
+    .process-payment p{
+        font-size: 18px;
+    }
+}
+@media all and (max-width: 767px){
+    .mc_banner-shape{
+        display: none;
+    }
+    .mc_banner-wraper{
+        margin-top: 30px;
+    }
+    .mc_banner-content-wrap h1{
+        font-size: 35px;
+    }
+    .mc_banner-content-wrap p{
+        font-size: 20px;
+        margin: 10px 0px 15px;
+    }
+    .mc_banner-img {
+        margin-top: 0px;
+    }
+    .banner-content-wrap.mc_banner-content-wrap a.btn_1.slide{
+        display: block;
+        max-width: 250px;
+        margin: 0 auto 10px;
+    }
+    .mc_banner-content-wrap a{
+        margin-left: 0;
+    }
+    .mc_sec h2{
+        font-size: 30px;
+        border-left: 0px solid transparent;
+        text-indent: 0  ;
+    }
+    .mc_encrypted-chatting-sec{
+        padding: 30px 0px;
+    }
+    .mc_encrypted-chatting-sec{
+        background-image: unset;
+    }
+    .chatting-protocols{
+        margin-top: 30px;
+        justify-content: flex-start;
+    }
+    .chatting-protocols .protocol{
+        margin-bottom: 25px;
+    }
+    .chatting-protocols .protocol:last-child{
+        margin-bottom: 0;
+    }
+    .protocol h3{
+        font-size: 25px;
+    }
+    .protocol p{
+        font-size: 18px;
+    }
+    .channel-subscription{
+        flex-direction: column;
+        align-items: center;
+    }
+    .channel-content {
+        margin-top: 30px;
+        padding-left: 0px;
+    }
+    .channel-subscription.paid-channels{
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .mc_earning-sec {
+        padding: 30px 0 30px;
+    }
+    .mc_earning-sec:before,.mc_earning-sec:after{
+        display: none;
+    }
+    .channels-main {
+        margin-top: 30px;
+    }
+    .earning-head p{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .chatting-security{
+        flex-direction: column;
+        align-items: center;
+    }
+    .chat-security{
+        margin-bottom: 30px;
+        margin-right: 0;
+    }
+    .chatting-security .chat-security:last-child{
+        margin-bottom: 0;
+    }
+    .simple-secure-sec:before,.simple-secure-sec:after{
+        display: none;
+    }
+    .simple-secure-sec {
+        padding: 30px 0 30px;
+    }
+    .simple-secure-head p{
+        font-size: 20px;
+    }
+    .install-meta-chat{
+        padding: 30px 0px;
+    }
+    .install-metachat-head p{
+        font-size: 20px;
+    }
+    .installing-platforms {
+        margin-top: 30px;
+    }
+    .install-platform p{
+        font-size: 25px;
+    }
+    .install-platform{
+        margin-right: 20px;
+    }
+    .cnx-head p{
+        font-size: 20px;
+    }
+    .cnx-payment-process{
+        margin-top: 30px;
+    }
+    .cnx-payment-process .process-payment:last-child {
+        margin-bottom: 0px;
+    }
+    .process-payment h3{
+        font-size: 20px;
+    }
+    .process-payment p{
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+    .cnx-payment-integration{
+        padding: 30px 0px;
+    }
+    .cnx-payment-integration:before,.cnx-payment-integration:after{
+        display: none;
+    }
+    .social-links ul li{
+        padding: 0px 10px;
+    }
+}
+@media all and (max-width: 475px){
+    .installing-platforms{
+        flex-direction: column;
+        align-items: center;
+    }
+    .install-platform{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .installing-platforms .install-platform:last-child{
+        margin-bottom: 0;
+    }
+}

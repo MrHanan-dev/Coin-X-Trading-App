@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="890" viewBox="0 0 1920 890">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f57d2b"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <rect id="Schermafbeelding_2022-04-09_om_21.39.39" data-name="Schermafbeelding 2022-04-09 om 21.39.39" width="1920" height="890" opacity="0.213" fill="url(#radial-gradient)"/>
+</svg>

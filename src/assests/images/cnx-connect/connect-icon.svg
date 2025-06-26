@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="128" viewBox="0 0 126 128">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f57d2b"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_4494" data-name="Group 4494" transform="translate(-1288 -1386)">
+    <rect id="Rectangle_7954" data-name="Rectangle 7954" width="126" height="128" transform="translate(1288 1386)" fill="url(#radial-gradient)"/>
+    <g id="Group_4167" data-name="Group 4167" transform="translate(0 2)">
+      <g id="Ellipse_154" data-name="Ellipse 154" transform="translate(1312 1407.417)" stroke="#fff" stroke-width="2">
+        <circle cx="38.576" cy="38.576" r="38.576" stroke="none"/>
+        <circle cx="38.576" cy="38.576" r="37.576" fill="none"/>
+      </g>
+      <g id="Rectangle_7583" data-name="Rectangle 7583" transform="translate(1328.935 1431.112)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="43.871" height="28.202" rx="7" stroke="none"/>
+        <rect x="1.5" y="1.5" width="40.871" height="25.202" rx="5.5" fill="none"/>
+      </g>
+      <line id="Line_117" data-name="Line 117" y2="6.267" transform="translate(1351.026 1459.472)" fill="none" stroke="#fff" stroke-width="3"/>
+      <line id="Line_118" data-name="Line 118" y1="6.267" transform="translate(1354.16 1466.052) rotate(90)" fill="none" stroke="#fff" stroke-width="3"/>
+      <g id="Rectangle_7584" data-name="Rectangle 7584" transform="translate(1354.317 1441.453)" stroke="#fff" stroke-width="3">
+        <rect width="15.355" height="21.309" rx="3" stroke="none"/>
+        <rect x="1.5" y="1.5" width="12.355" height="18.309" rx="1.5" fill="none"/>
+      </g>
+      <g id="Ellipse_156" data-name="Ellipse 156" transform="translate(1360.584 1457.435)" fill="none" stroke="#fff" stroke-width="2">
+        <circle cx="1.567" cy="1.567" r="1.567" stroke="none"/>
+        <circle cx="1.567" cy="1.567" r="0.567" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

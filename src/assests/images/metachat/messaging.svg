@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="92" viewBox="0 0 102 92">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.122" x2="0.5" y2="1.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9aae9f"/>
+      <stop offset="1" stop-color="#334d3d" stop-opacity="0.459"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7415" data-name="Rectangle 7415" width="56.308" height="56.308" fill="#10bd53"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4493" data-name="Group 4493" transform="translate(-366 -1420.824)">
+    <g id="Rectangle_7414" data-name="Rectangle 7414" transform="translate(366 1420.824)" stroke="#10bd53" stroke-width="4" fill="url(#linear-gradient)">
+      <rect width="102" height="92" rx="16" stroke="none"/>
+      <rect x="2" y="2" width="98" height="88" rx="14" fill="none"/>
+    </g>
+    <g id="message_icon" data-name="message icon" transform="translate(388.846 1438.67)" clip-path="url(#clip-path)">
+      <path id="Path_1845" data-name="Path 1845" d="M52.606,8.849h-48c-.97,0-1.116.457-.325,1.019L27.326,26.221a1.783,1.783,0,0,0,2.564,0L52.931,9.868C53.722,9.306,53.576,8.849,52.606,8.849Z" transform="translate(-0.454 -1.064)" fill="#10bd53"/>
+      <path id="Path_1846" data-name="Path 1846" d="M54.788,13.862V44a3.3,3.3,0,0,1-3.3,3.3H5.3A3.3,3.3,0,0,1,2,44V13.862c0-.971.64-1.3,1.43-.734l23.683,17a1.781,1.781,0,0,0,2.564,0l23.683-17C54.148,12.562,54.788,12.891,54.788,13.862Z" transform="translate(-0.24 -1.545)" fill="#10bd53"/>
+    </g>
+  </g>
+</svg>

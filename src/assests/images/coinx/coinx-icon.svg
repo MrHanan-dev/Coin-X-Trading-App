@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.556" height="11.462" viewBox="0 0 16.556 11.462">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcee67"/>
+      <stop offset="1" stop-color="#ffb200"/>
+    </linearGradient>
+  </defs>
+  <path id="coinx-icon" d="M17.543,11.25H5.763a2.39,2.39,0,0,0-2.388,2.388v6.686a2.39,2.39,0,0,0,2.388,2.388h11.78a2.39,2.39,0,0,0,2.388-2.388V13.638A2.39,2.39,0,0,0,17.543,11.25Z" transform="translate(-3.375 -11.25)" fill="url(#linear-gradient)"/>
+</svg>

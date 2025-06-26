@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="128" viewBox="0 0 126 128">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f57d2b"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_4492" data-name="Group 4492" transform="translate(-936 -1386)">
+    <rect id="Rectangle_7953" data-name="Rectangle 7953" width="126" height="128" transform="translate(936 1386)" fill="url(#radial-gradient)"/>
+    <g id="Ellipse_2125" data-name="Ellipse 2125" transform="translate(960 1410.931)" stroke="#fff" stroke-width="2">
+      <circle cx="38.819" cy="38.819" r="38.819" stroke="none"/>
+      <circle cx="38.819" cy="38.819" r="37.819" fill="none"/>
+    </g>
+    <path id="Icon_material-settings-backup-restore" data-name="Icon material-settings-backup-restore" d="M31.834,24.965a4.548,4.548,0,1,0-4.548,4.548A4.561,4.561,0,0,0,31.834,24.965ZM27.286,4.5A20.466,20.466,0,0,0,6.822,24.965H0l9.1,9.1,9.1-9.1H11.369a15.928,15.928,0,1,1,6.685,12.961L14.826,41.2A20.465,20.465,0,1,0,27.286,4.5Z" transform="translate(971.646 1423.39)" fill="#fff"/>
+  </g>
+</svg>

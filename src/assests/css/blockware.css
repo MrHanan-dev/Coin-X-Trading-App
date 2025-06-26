@@ -1,0 +1,544 @@
+a.slide.blockware-slide{
+    border: 2px solid #CC7E00;
+}
+a.slide.blockware-slide:hover{
+    box-shadow: inset 13em 0 0 0 #CC7E00;
+}
+.slide-blockware:hover,
+.slide-blockware:focus {
+    box-shadow: inset 13em 0 0 0 #E28B00;
+    border-color: #E28B00;
+    color: #fff;
+}
+.product-wraper ul li.active-page-blockware a{
+    color: #E28B00;
+}
+.blckware_banner-sec{
+    background-color:#DCDCDC;
+    background-repeat: no-repeat;
+    padding:55px 0px 0px;
+    position: relative;
+    z-index: 99;
+}
+.nav-btn-blockware a {
+    border: 2px solid #E28B00;
+    padding: 8px 25px;
+    border-radius: 50px;
+    font-weight: 600;
+}
+.blockware-page ul li img:last-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(1) a img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(1) a:hover img:first-child {
+    display: block;
+}
+.blockware-page ul li:nth-of-type(1) a:hover img:last-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(1) a:hover {
+    color: #9E1EE3;
+}
+.blockware-page ul li:nth-of-type(1) a img:last-child {
+    display: block;
+    position: relative;
+}
+.blockware-page ul li:nth-of-type(3) a:hover img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(3) a:hover {
+    color: #FED236;
+}
+.blockware-page ul li:nth-of-type(3) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.blockware-page ul li:nth-of-type(4) a:hover img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(4) a:hover {
+    color: #00AB00;
+}
+.blockware-page ul li:nth-of-type(4) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.blockware-page ul li:nth-of-type(5) a img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(5) a:hover {
+    color: #E28B00;
+}
+.blockware-page ul li:nth-of-type(5) a img:last-child {
+    display: block;
+    position: relative;
+}
+.blockware-page ul li:nth-of-type(6) a:hover img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(6) a:hover {
+    color: #00D000;
+}
+.blockware-page ul li:nth-of-type(6) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+
+.blockware-page ul li:nth-of-type(7) a:hover img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(7) a:hover {
+    color: #0271E3;
+}
+.blockware-page ul li:nth-of-type(7) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.blockware-page ul li:nth-of-type(8) a:hover img:first-child {
+    display: none;
+}
+.blockware-page ul li:nth-of-type(8) a:hover {
+    color: #F57D2B;
+}
+.blockware-page ul li:nth-of-type(8) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.blckware_banner-sec:before,.blckware_banner-sec:after{
+    content: "";
+    position: absolute;
+    background-image: url("../images/blockware/banner-before-img.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 580px;
+    height: 389px;
+    left: 0;
+    top: 0;
+    z-index: -9;
+}
+.blckware_banner-sec:after{
+    background-image: url("../images/blockware/banner-after-img.svg");
+    width: 544px;
+    height: 398px;
+    right: 0;
+    bottom: 0;
+    left: unset;
+    top: unset;
+}
+.blckware_banner-content-wrap h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+}
+.blckware_banner-content-wrap p{
+    font-size: 25px;
+    line-height: initial;
+    margin-bottom: 0;
+    color: #000;
+}
+.blockware-banner-anchor{
+    margin: 30px 0px 50px;
+}
+.blckware_banner-content-wrap a.btn_1{
+    background: #E28B00 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+    padding: 13px 35px;
+    border-color: #E28B00;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+.blckware_banner-content-wrap a.btn_1.slide:hover{
+    box-shadow: inset 13em 0 0 0 #a06303;
+    border-color:#a06303;
+}
+.blckware_banner-content-wrap a.more-info{
+    margin-left: 30px;
+    color: #0271E3;
+    font-size: 21px;
+    font-weight: 500;
+}
+.blockware-head h2{
+    border-left: 10px solid #FFBF00;
+    font-size: 47px;
+    font-weight: bold;
+    line-height: 30px;
+    text-indent: 15px;
+    margin-bottom: 20px;
+}
+.blockware-head p{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 35px;
+    opacity: 0.8;
+}
+.decentralized-blckware{
+    background: #000000 0% 0% no-repeat padding-box;
+    padding: 80px 0px;
+}
+.decentralized-process{
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.decentra-process{
+    background: transparent linear-gradient(121deg, #E28C00 0%, #000000 100%) 0% 0% no-repeat padding-box;
+    border: 2px solid #E28B00;
+    border-radius: 47px;
+    padding: 30px 50px;
+    margin-right: 70px;
+}
+.decentralized-process .decentralized-process:last-child{
+    margin-right: 0;
+}
+.decentralized-process h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.decentralized-process p{
+    color: #fff;
+    opacity: 0.8;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.decentra-btn{
+    width: 100%;
+    max-width: 217px;
+    height: 58px;
+    background: #E28B00 0% 0% no-repeat padding-box;
+    border-radius: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.decentra-btn a{
+    font-size: 19px;
+    font-weight: 700;
+    color: #fff;
+}
+.decentra-btn a:hover {
+    color: #fff;
+}
+.peer-to-peer-sec{
+    padding: 80px 0px 150px;
+    background: #DCDCDC 0% 0% no-repeat padding-box;
+    position: relative;
+    z-index: 99;
+}
+.peer-to-peer-sec:after{
+    content: "";
+    background-image: url("../images/blockware/peer-after-img.svg");
+    position: absolute;
+    right: 0;
+    width: 392px;
+    background-size: 100% 100%;
+    height: 680px;
+    bottom: 0;
+}
+.peer-head.blockware-head h2{
+    color: #000;
+}
+.peer-head.blockware-head p{
+    color: #000000CC;
+}
+.peer-to-peer-content{
+    width: 100%;
+    max-width: 900px;
+    margin-top: 30px;
+}
+.peer-to-peer-content h3,.peer-to-peer-content p{
+    font-size: 30px;
+    color: #000000CC;
+    font-weight: 700;
+}
+.peer-to-peer-content p{
+    font-weight: 500;
+    line-height: 45px;
+}
+.clean-source{
+    background: #000000;
+    padding: 100px 0px 150px;
+}
+.sources-we-use{
+    display: flex;
+    margin-top: 70px;
+}
+.source{
+    border: 2px solid #FF9D00;
+    border-radius: 58px;
+    margin-right: 80px;
+    text-align: center;
+    padding: 30px;
+}
+.sources-we-use .source:last-child{
+    margin-right: 0;
+}
+.source p{
+    font-size: 30px;
+    margin-top: 20px;
+    color: #fff;
+}
+.cnx-environment{
+    background-color: #DCDCDC;
+    padding: 100px 0px;
+}
+.cnx-env-head h2{
+    color: #000;
+}
+.cnx-env-head p{
+    color: #000;
+    opacity: 0.5;
+}
+.records-store-sec{
+    background-color: #000;
+    padding: 100px 0px;
+    position: relative;
+    border-bottom: 2px solid #FF9D00    ;
+}
+.records-store-sec:after{
+    content: "";
+    background-image: url("../images/blockware/records-after-img.svg");
+    width: 240px;
+    height: 545px;
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+    background-size: 100% 100%;
+}
+.records-head.blockware-head p{
+    color: #fff;
+    opacity: 0.5;
+}
+.saving-records-process{
+    margin-top: 80px;
+}
+.saving-records-process ul li{
+    font-size: 30px;
+    color: #fff;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    position: relative;
+}
+.saving-records-process ul li:before{
+    content: "";
+    background-image: url("../images/blockware/list-before-img.svg");
+    height: 58px;
+    width: 58px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+}
+@media all and (max-width: 1440px){
+    .blckware_banner-sec:before{
+        width: 400px;
+        height: 270px;
+    }
+    .blckware_banner-sec:after{
+        width: 350px;
+        height: 257px;
+    }
+}
+@media all and (max-width: 1199px){
+    .peer-to-peer-sec:after{
+        width: 250px;
+        height: 430px;
+    }
+    .records-store-sec:after{
+        width: 210px;
+        height: 480px;
+    }
+}
+@media all and (max-width: 991px){
+    .product-toggle-btn{
+        display:block;
+        width: 100%;
+        max-width: 200px;
+        background-color: #E28B00;
+        border: 2px solid #E28B00;
+        font-size: 18px;
+        color: #fff;
+        font-weight: 500;
+        border-radius: 50px;
+        padding: 7px 10px;
+        margin-left: auto;
+    }
+
+    .blckware_banner-sec{
+        padding: 45px 0 0;
+    }
+    .blckware_banner-sec:before, .blckware_banner-sec:after{
+        display: none;
+    }
+    .blockware-banner-anchor {
+        margin: 25px 0px 30px;
+    }
+    .blckware_banner-content-wrap h1{
+        font-size: 40px;
+    }
+    .blckware_banner-content-wrap p{
+        font-size: 22px;
+    }
+    .blockware-banner-anchor {
+        margin: 20px 0px;
+    }
+    .blckware_banner-content-wrap a.more-info{
+        font-size: 20px;
+    }
+    .decentralized-blckware{
+        padding: 50px 0px;
+    }
+    .blockware-head h2{
+        font-size: 35px;
+    }
+    .blockware-head p{
+        font-size: 25px;
+        line-height: initial;
+    }
+    .decentra-process{
+        padding: 30px 25px;
+        margin-right: 50px;
+    }
+    .decentralized-process h3{
+        font-size: 25px;
+    }
+    .decentralized-process p{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .peer-to-peer-sec{
+        padding: 50px 0 100px;
+    }
+    .peer-to-peer-content h3{
+        font-size: 25px;
+    }
+    .peer-to-peer-content p{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .clean-source{
+        padding: 50px 0px;
+    }
+    .sources-we-use{
+        margin-top: 40px;
+    }
+    .source p{
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .source{
+        margin-right: 40px;
+    }
+    .cnx-environment{
+        padding: 50px 0px;
+    }
+    .records-store-sec{
+        padding: 50px 0px;
+    }
+    .saving-records-process ul li{
+        font-size: 25px;
+        padding-bottom: 30px;
+        padding-left: 80px;
+    }
+    .saving-records-process {
+        margin-top: 50px;
+    }
+}
+@media all and (max-width: 767px){
+    .blckware_banner-sec {
+        padding: 30px 0 0;
+    }
+    .blckware_banner-content-wrap h1 {
+        font-size: 30px;
+    }
+    .blckware_banner-content-wrap p {
+        font-size: 20px;
+    }
+    .blockware-head h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .blockware-head p{
+        font-size: 22px;
+    }
+    .decentralized-process{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        flex-direction: column;
+    }
+    .decentra-process{
+        margin-right: 0px;
+        margin-bottom: 25px;
+    }
+    .decentralized-process .decentra-process:last-child{
+        margin-bottom: 0;
+    }
+    .decentralized-blckware{
+        padding: 30px 0px;
+    }
+    .peer-to-peer-sec:after{
+        display: none;
+    }
+    .peer-to-peer-sec {
+        padding: 30px 0 30px;
+    }
+    .peer-to-peer-content{
+        margin-top: 20px;
+    }
+    .peer-to-peer-content p{
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+    .clean-source {
+        padding: 30px 0px;
+    }
+    .sources-we-use{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .source{
+        margin-right: 0;
+        margin-bottom: 25px;
+        max-width: 360px;
+        width: 100%;
+    }
+    .sources-we-use .source:last-child{
+        margin-bottom: 0;
+    }
+    .cnx-environment{
+        padding: 30px 0px;
+    }
+    .saving-records-process ul li{
+        font-size: 20px;
+        padding-bottom: 25px;
+    }
+    .records-store-sec:after{
+        display: none;
+    }
+    .records-store-sec {
+        padding: 30px 0px;
+    }
+    .saving-records-process {
+        margin-top: 30px;
+    }
+}
+@media all and (max-width: 575px){
+    .blckware_banner-content-wrap a.btn_1{
+        display: block;
+        max-width: 210px;
+        margin: 20px auto;
+    }
+    .blckware_banner-content-wrap a.more-info{
+        margin-left: 0;
+    }
+    .blockware-head h2{
+        border-left: 0px solid transparent;
+        text-indent: 0;
+    }
+}

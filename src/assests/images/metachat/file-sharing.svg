@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="92" viewBox="0 0 102 92">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.122" x2="0.5" y2="1.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9aae9f"/>
+      <stop offset="1" stop-color="#334d3d" stop-opacity="0.459"/>
+    </linearGradient>
+  </defs>
+  <g id="file-sharing" transform="translate(-609 -1697)">
+    <g id="Rectangle_7418" data-name="Rectangle 7418" transform="translate(609 1697)" stroke="#10bd53" stroke-width="4" fill="url(#linear-gradient)">
+      <rect width="102" height="92" rx="16" stroke="none"/>
+      <rect x="2" y="2" width="98" height="88" rx="14" fill="none"/>
+    </g>
+    <g id="Page-1" transform="translate(641 1717)">
+      <g id="Artboard" transform="translate(1 1)">
+        <g id="file-text" transform="translate(0 0)">
+          <path id="Shape" d="M23.813,0H4.763A4.763,4.763,0,0,0,0,4.763v38.1a4.763,4.763,0,0,0,4.763,4.763H33.338A4.763,4.763,0,0,0,38.1,42.863V14.288Z" transform="translate(0)" fill="#007b2f" stroke="#10bd53" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+          <path id="Shape-2" data-name="Shape" d="M10,0V14.288H24.288" transform="translate(13.813)" fill="none" stroke="#10bd53" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

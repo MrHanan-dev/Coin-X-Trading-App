@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="92" viewBox="0 0 102 92">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.122" x2="0.5" y2="1.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9aae9f"/>
+      <stop offset="1" stop-color="#334d3d" stop-opacity="0.459"/>
+    </linearGradient>
+  </defs>
+  <g id="channels" transform="translate(-1416.063 -1417.748)">
+    <g id="Rectangle_7417" data-name="Rectangle 7417" transform="translate(1416.063 1417.748)" stroke="#10bd53" stroke-width="4" fill="url(#linear-gradient)">
+      <rect width="102" height="92" rx="16" stroke="none"/>
+      <rect x="2" y="2" width="98" height="88" rx="14" fill="none"/>
+    </g>
+    <g id="Icon_ionic-md-chatbubbles" data-name="Icon ionic-md-chatbubbles" transform="translate(1439.198 1435.883)">
+      <path id="Path_1970" data-name="Path 1970" d="M13.767,36.74c-2.475,0-5.49-3.015-5.49-5.49v-20H7.1a3.74,3.74,0,0,0-3.725,3.725V48.5L10.544,41.4H36.9a3.785,3.785,0,0,0,3.725-3.787v-.87Z" transform="translate(0 5.85)" fill="#10bd53"/>
+      <path id="Path_1971" data-name="Path 1971" d="M46.578,3.375H12.363A4.289,4.289,0,0,0,8.086,7.652V35.36a4.3,4.3,0,0,0,4.277,4.289H41.554l9.3,6.5V7.652A4.289,4.289,0,0,0,46.578,3.375Z" transform="translate(3.5)" fill="#10bd53"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212.5" height="276.247" viewBox="0 0 212.5 276.247">
+  <g id="Group_4213" data-name="Group 4213" transform="translate(-262 -5087.145)">
+    <g id="Group_4187" data-name="Group 4187" transform="translate(3635 4682.9)">
+      <g id="Path_2302" data-name="Path 2302" transform="translate(-3373 404.245)" fill="#0067d8">
+        <path d="M 107.1943588256836 270.5665283203125 L 5 215.9572143554688 L 5 5.000003814697266 L 207.5 5.000003814697266 L 207.5 215.9829864501953 L 107.1943588256836 270.5665283203125 Z" stroke="none"/>
+        <path d="M 10 10 L 10 212.9599609375 L 107.1728134155273 264.8859252929688 L 202.5 213.0114898681641 L 202.5 10 L 10 10 M 0 0 L 212.5 0 L 212.5 218.9544982910156 L 107.2159576416016 276.2471618652344 L 0 218.9544982910156 L 0 0 Z" stroke="none" fill="#81c0ff"/>
+      </g>
+      <path id="Path_2303" data-name="Path 2303" d="M-3241.581-886.782l200.057-209.774v209.774l-100.333,54.705Z" transform="translate(-124.458 1506.129)" fill="#0051a3"/>
+      <g id="Path_2304" data-name="Path 2304" transform="translate(-3373 404.245)" fill="none">
+        <path d="M0,0H212.5V218.955L107.216,276.247,0,218.955Z" stroke="none"/>
+        <path d="M 10 10 L 10 212.9599609375 L 107.1728134155273 264.8859252929688 L 202.5 213.0114898681641 L 202.5 10 L 10 10 M 0 0 L 212.5 0 L 212.5 218.9544982910156 L 107.2159576416016 276.2471618652344 L 0 218.9544982910156 L 0 0 Z" stroke="none" fill="#81c0ff"/>
+      </g>
+    </g>
+    <text id="Leader" transform="translate(368 5180)" fill="#fff" font-size="40" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-71.86" y="0">Leader</tspan></text>
+    <rect id="Rectangle_8005" data-name="Rectangle 8005" width="204" height="49" transform="translate(262 5198)" fill="#81c0ff"/>
+    <text id="_2022" data-name="2022" transform="translate(368 5231)" fill="#fff" font-size="25" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-30.513" y="0">2022</tspan></text>
+  </g>
+</svg>

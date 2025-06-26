@@ -1,0 +1,516 @@
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@300;500;700&display=swap");
+
+/* custom colors  */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Montserrat", sans-serif;
+}
+
+:root {
+  --bgcolor: #000000;
+  --primary-color: #cc7e00;
+  --text-color: #828286;
+  --main-text-color: #333333;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333;
+}
+
+/* --------------------------------- navbar css style starts 
+                        -------------------------------------------------------*/
+.logoBrand:hover {
+  color: var(--primary-color) !important;
+}
+.navbar-bg {
+  background-color: var(--bgcolor);
+  padding: 2rem 0;
+  z-index: 99;
+  position: relative;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.navbar li {
+  padding: 0 2rem;
+}
+
+.navbar li a {
+  font-size: 1.5rem;
+  /* font-weight: 600; */
+  position: relative;
+  padding-left: 1rem;
+}
+
+.navbar li a:hover {
+  color: var(--primary-color) !important;
+}
+
+.btn-style {
+  width: 16rem;
+
+  border-radius: 2rem;
+  color: #fff;
+  background-color: var(--primary-color);
+  text-transform: capitalize;
+  font-size: 1.5rem;
+}
+
+.btn-style:first-child {
+  margin-right: 2rem;
+}
+
+.btn-style:hover {
+  border: 0.2rem solid var(--primary-color);
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+.btn-style-border {
+  border: 0.2rem solid #cc7e00;
+  background-color: transparent;
+  color: #fff;
+}
+
+.btn-style-border:hover {
+  color: #fff;
+  border-color: #000;
+  text-transform: capitalize;
+}
+/* --------------------------------- Navbar ends  
+                        -------------------------------------------------------*/
+
+/* --------------------------------- Hero sEction  starts  
+                        -------------------------------------------------------*/
+
+.masthead {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/BG.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.masthead h1,
+p {
+  color: white;
+}
+
+.img-circle {
+  height: 12rem;
+  width: 12rem;
+}
+
+/* --------------------------------- Hero sEction  ends  
+                                                -------------------------------------------------------*/
+
+/* --------------------------------- Section 1 Page starts  
+                        -------------------------------------------------------*/
+
+.adManager {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/Laptop1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.adManager h1,
+p {
+  color: white;
+}
+
+.CnxConnect {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/CnxConnect.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.CnxConnect h1,
+p {
+  color: white;
+}
+
+/* =========================================================================== */
+
+.CoinX {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/CoinX.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.CoinX h1,
+p {
+  color: white;
+}
+
+/* =========================================================================== */
+
+.MetaChat {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/MetaChat.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.MetaChat h1,
+p {
+  color: white;
+}
+/* =========================================================================== */
+
+.NodeJS {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/NodeJS.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.NodeJS h1,
+p {
+  color: white;
+}
+/* =========================================================================== */
+
+.VPN {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/VPN.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.VPN h1,
+p {
+  color: white;
+}
+/* =========================================================================== */
+
+.WalletX {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("./images/WalletX.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.WalletX h1,
+p {
+  color: white;
+}
+/* --------------------------------- Section 2 Page starts  
+                        -------------------------------------------------------*/
+.Mobile-img {
+  height: 80vh;
+
+  background-image: url("./images/Mobile.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* --------------------------------- Footer Section Starts  
+                                                -------------------------------------------------------*/
+.Footer {
+  height: 20vh;
+  min-height: 250px;
+  /* background-image: url("../public/images/BG.png"); */
+  background-color: rgb(10, 10, 10);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.Footer h2 {
+  color: white;
+  margin-top: 2rem;
+}
+.img-circle_Footer {
+  height: 9rem;
+  width: 9rem;
+}
+
+/*-------------------------------------------------------------- #About --------------------------------------------------------------*/
+.about .content {
+  background-color: #f6f9ff;
+  padding: 40px;
+}
+.about h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #4154f1;
+  text-transform: uppercase;
+}
+.about h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+.about p {
+  margin: 15px 0 30px 0;
+  line-height: 24px;
+}
+.about .btn-read-more {
+  line-height: 0;
+  padding: 15px 40px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #4154f1;
+  box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
+}
+.about .btn-read-more span {
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+.about .btn-read-more i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.about .btn-read-more:hover i {
+  transform: translateX(5px);
+}
+
+/* ======================================================================================== */
+/* ------------------------------------ */
+
+/*//////////////////////////////////////////////////////////////////
+[ Scroll bar ]*/
+.js-pscroll {
+  position: relative;
+  overflow: hidden;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.table100 .ps__rail-y {
+  width: 9px;
+  background-color: transparent;
+  opacity: 1 !important;
+  right: 5px;
+}
+
+.table100 .ps__rail-y::before {
+  content: "";
+
+  display: block;
+  position: absolute;
+  background-color: #ebebeb;
+  border-radius: 5px;
+  width: 100%;
+  height: calc(100% - 30px);
+  left: 0;
+  top: 15px;
+}
+
+.table100 .ps__rail-y .ps__thumb-y {
+  width: 100%;
+  right: 0;
+  background-color: transparent;
+  opacity: 1 !important;
+}
+
+.table100 .ps__rail-y .ps__thumb-y::before {
+  content: "";
+  display: block;
+  position: absolute;
+  background-color: #cccccc;
+  border-radius: 5px;
+  width: 100%;
+  height: calc(100% - 30px);
+  left: 0;
+  top: 15px;
+}
+
+/*//////////////////////////////////////////////////////////////////
+[ Table ]*/
+
+.limiter {
+  width: 1366px;
+  margin: 0 auto;
+}
+
+.wrap-table100 {
+  width: 1170px;
+}
+
+/*//////////////////////////////////////////////////////////////////
+[ Table ]*/
+
+table {
+  width: 100%;
+}
+
+th,
+td {
+  font-weight: "bold";
+  padding-right: 10px;
+}
+
+.column1 {
+  width: 33%;
+  padding-left: 40px;
+}
+
+.column2 {
+  width: 13%;
+}
+
+.column3 {
+  width: 22%;
+}
+
+.column4 {
+  width: 19%;
+}
+
+.column5 {
+  width: 13%;
+}
+
+.table100-body td {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.table100-body {
+  max-height: 585px;
+  overflow: auto;
+}
+
+.table100.ver1 td {
+  font-size: 20px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 1.4;
+}
+
+/*---------------------------------------------*/
+
+.table100.ver1 {
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+
+.table100.ver1 .ps__rail-y {
+  right: 5px;
+}
+
+.table100.ver1 .ps__rail-y::before {
+  background-color: #ebebeb;
+}
+
+.table100.ver1 .ps__rail-y .ps__thumb-y::before {
+  background-color: #cccccc;
+}
+
+/* =========================================================Section 3 ================================================== */
+.section3 {
+  height: 70vh;
+  min-height: 500px;
+  background-image: url("./images/sec3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.section3 h1,
+p {
+  color: white;
+}
+
+/* .img-circle {
+  height: 15rem;
+  width: 15rem;
+} */
+
+/* =======================================Team Page=========================================== */
+/**********************************/
+/********** Team #1 Style *********/
+/**********************************/
+.CoreTeam h1 p {
+  text-decoration-color: white !important;
+}
+.MyBorder {
+  height: 280px;
+  position: relative;
+  width: 260px;
+  background-color: rgb(29, 27, 27);
+  border-width: 60px;
+  border-radius: 2rem !important;
+}
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: #555;
+}
+
+.progress {
+  height: 10px;
+}
+/* =========================Pre Sale ================================ */
+.MyBorderPresale {
+  height: 10rem;
+  position: relative;
+  width: 18rem;
+  border-color: white;
+  border-width: 60px;
+  border-radius: 2rem !important;
+}

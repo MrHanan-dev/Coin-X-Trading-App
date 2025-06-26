@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193.5" height="193.5" viewBox="0 0 193.5 193.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.024" y1="0.057" x2="1.031" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f29500"/>
+      <stop offset="1" stop-color="#794b00"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#362705"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.107" x2="1.094" y2="1.049" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eb9100"/>
+      <stop offset="1" stop-color="#764900"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3771" data-name="Group 3771" transform="translate(-941.5 -309)">
+    <path id="Path_159" data-name="Path 159" d="M96.75,0A96.75,96.75,0,1,1,0,96.75,96.75,96.75,0,0,1,96.75,0Z" transform="translate(941.5 309)" fill="url(#linear-gradient)"/>
+    <path id="Path_160" data-name="Path 160" d="M86.013,0A86.307,86.307,0,1,1,0,86.306,86.16,86.16,0,0,1,86.013,0Z" transform="translate(952.209 319.406)" fill="url(#radial-gradient)"/>
+    <path id="Union_14" data-name="Union 14" d="M84.15,109.15V99.526H78.319v9.625H72.487V99.526H62.271L50.716,83.066,39.16,99.526h-10v9.625H23.33V99.526H17.5v9.625H11.667V99.526H0L31.136,55.179,0,10.836H11.667V0H17.5V10.836H23.33V0h5.832V10.836h10L50.716,27.293,62.271,10.836H72.487V0h5.832V10.836H84.15V0h5.834V10.836h11.449L70.3,55.179l31.137,44.346H89.984v9.625Z" transform="translate(987.212 350.977)" fill="url(#linear-gradient-2)"/>
+    <path id="Union_16" data-name="Union 16" d="M84.15,109.15V99.526H78.319v9.625H72.487V99.526H62.271L50.716,83.066,39.16,99.526h-10v9.625H23.33V99.526H17.5v9.625H11.667V99.526H0L31.136,55.179,0,10.836H11.667V0H17.5V10.836H23.33V0h5.832V10.836h10L50.716,27.293,62.271,10.836H72.487V0h5.832V10.836H84.15V0h5.834V10.836h11.449L70.3,55.179l31.137,44.346H89.984v9.625Z" transform="translate(987.212 350.977)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

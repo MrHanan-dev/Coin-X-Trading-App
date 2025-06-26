@@ -1,0 +1,362 @@
+.nav-btn-creditcard a {
+    border: 2px solid #F57D2B;
+    padding: 8px 25px;
+    border-radius: 50px;
+}
+.nav-btn-creditcard a:hover {
+    border: 2px solid #F57D2B;
+    box-shadow: inset 13em 0 0 0 #F57D2B;
+    color: #fff;
+}
+.product-sec {
+    background-color: #1F1F1F;
+    margin-top: 88.8px;
+    padding: 15px 0 10px 0;
+    position: relative;
+    z-index: 9;
+}
+.product-wraper ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.product-wraper ul li a {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+}
+.product-wraper ul li a img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 7px;
+}
+.creditcard-page ul li img:last-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(1) a img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(1) a:hover img:first-child {
+    display: block;
+}
+.creditcard-page ul li:nth-of-type(1) a:hover img:last-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(1) a:hover {
+    color: #9E1EE3;
+}
+.creditcard-page ul li:nth-of-type(1) a img:last-child {
+    display: block;
+    position: relative;
+}
+.creditcard-page ul li:nth-of-type(3) a:hover img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(3) a:hover {
+    color: #FED236;
+}
+.creditcard-page ul li:nth-of-type(3) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.creditcard-page ul li:nth-of-type(4) a:hover img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(4) a:hover {
+    color: #00AB00;
+}
+.creditcard-page ul li:nth-of-type(4) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.creditcard-page ul li:nth-of-type(5) a:hover img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(5) a:hover {
+    color: #E28B00;
+}
+.creditcard-page ul li:nth-of-type(5) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+
+.creditcard-page ul li:nth-of-type(6) a:hover img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(6) a:hover {
+    color: #00D000;
+}
+.creditcard-page ul li:nth-of-type(6) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.creditcard-page ul li:nth-of-type(7) a:hover img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(7) a:hover {
+    color: #0271E3;
+}
+.creditcard-page ul li:nth-of-type(7) a:hover img:last-child {
+    display: block;
+    position: relative;
+}
+.creditcard-page ul li:nth-of-type(8) a img:first-child {
+    display: none;
+}
+.creditcard-page ul li:nth-of-type(8) a:hover {
+    color: #F57D2B;
+}
+.creditcard-page ul li:nth-of-type(8) a img:last-child {
+    display: block;
+}
+.credit-slide:hover,
+.credit-slide:focus {
+    box-shadow: inset 15em 0 0 0 #F57D2B;
+    border-color: #F57D2B;
+    color: #fff;
+}
+.default-padd-creditcard {
+    padding: 100px 0;
+}
+.card-banner-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.creditcard-banner-sec {
+    background-image: url("../images/creditcard/banner-bg.svg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+.creditcard-wrap {
+    text-align: center;
+    margin: 0 25px;
+}
+.creditcard-wrap img {
+    box-shadow: 0px 10px 20px #00000033;
+    border-radius: 25px;
+}
+.banner-hd-wrap {
+    margin-bottom: 40px;
+}
+.banner-hd-wrap h1 {
+    font-size: 59px;
+    font-weight: 700;
+}
+.banner-hd-wrap p {
+    font-size: 26px;
+    color: #ABA5A1;
+}
+.creditcard-wrap h4 {
+    font-size: 26px;
+    font-weight: 700;
+    padding: 30px 0 5px 0;
+}
+.creditcard-wrap p {
+    color: #ABA5A1;
+    font-weight: 500;
+    font-size: 22px;
+    max-width: 420px;
+    margin: 0 auto;
+}
+.pick_btn {
+    border: 2px solid #F57D2B;
+    width: 170px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 7px 0;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.offical-partner p {
+    font-weight: 700;
+    margin-bottom: 0;
+    padding: 10px 0 4px 0;
+    line-height: 20px;
+}
+.offical-partner i {
+    color: #fff;
+    font-size: 22px;
+}
+.worldwide-hd h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+.get_card_btn {
+    border: 2px solid #F57D2B;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 7px 30px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.worldwide-hd {
+    padding-top: 50px;
+}
+.access-worldwide {
+    background-image: url("../images/creditcard/black-bg.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cnx-card-sec {
+    background-color: #DCDCDC;
+}
+.cnx-card-content h2 {
+    font-weight: 700;
+    font-size: 47px;
+    color: #000;
+}
+.cnx-card-content h2 span {
+    background-color: #F57D2B;
+    height: 35px;
+    width: 10px;
+    display: inline-block;
+}
+.cnx-card-content p {
+    font-size: 26px;
+    color: #6D6D6D;
+}
+.cnx-card-img {
+    padding-top: 200px;
+}
+.get_card_now_btn {
+    background-color: #F57D2B;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 7px 30px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.get_card_now_btn:hover {
+    color: #fff;
+}
+.convert-crypto-sec {
+    background-color: #2B2B2B;
+}
+.crypto-text-wrap h2 {
+    font-weight: 700;
+    font-size: 69px;
+}
+.crypto-text-wrap p {
+    font-weight: 500;
+    font-size: 24px;
+    padding: 25px 0 10px 0;
+}
+.credit-globe {
+    background-color: #DCDCDC;
+}
+.globe-content p {
+    color: #F57D2B;
+}
+.globe-content h2 {
+    color: #F57D2B;
+    font-weight: 700;
+    font-size: 54px;
+}
+.credit-globe .container {
+    background-color: #fff;
+}
+.globe-img {
+    text-align: center;
+    padding: 50px 0;
+}
+.globe-content {
+    padding: 70px 100px 0 80px;
+}
+.download-wallet-app {
+    background: transparent linear-gradient(180deg, #606060 0%, #000000 100%) 0% 0% no-repeat padding-box;
+    border-bottom: 2px solid #f57d2b;
+}
+.down-app-wrap h2 {
+    font-size: 47px;
+    font-weight: 700;
+}
+.down-app-wrap h2 span {
+    background-color: #F57D2B;
+    height: 35px;
+    width: 10px;
+    display: inline-block;
+}
+.down-app-wrap p {
+    font-size: 26px;
+    font-weight: 500;
+}
+@media (max-width:1199px) {
+    .globe-content h2 {
+        font-size: 40px;
+    }
+    .globe-content {
+        padding: 70px 40px 0 80px;
+    }
+    .crypto-text-wrap h2 {
+        font-size: 40px;
+        line-height: 1.4;
+    }
+    .worldwide-hd h1 {
+        font-size: 40px;
+        line-height: 1.4;
+    }
+}
+@media (max-width:992px) {
+    .access-worldwide {
+        background-color: #000;
+        background-image: none;
+    }
+}
+@media (max-width:767px) {
+    .banner-hd-wrap h1 {
+        font-size: 36px;
+    }
+    .banner-hd-wrap p {
+        font-size: 20px;
+    }
+    .card-banner-wrap {
+        flex-direction: column;
+    }
+    .creditcard-wrap {
+        padding-bottom: 50px;
+    }
+    .worldwide-hd h1 {
+        font-size: 30px;
+        line-height: 1.5;
+    }
+    .access-worldwide {
+        background-size: contain;
+        background-position: left bottom;
+    }
+    .cnx-card-content h2 {
+        font-size: 30px;
+    }
+    .cnx-card-content p {
+        font-size: 20px;
+    }
+    .cnx-card-img {
+        padding-top: 50px;
+    }
+    .crypto-text-wrap h2 {
+        font-size: 34px;
+        line-height: 1.4;
+    }
+    .crypto-text-wrap {
+        margin-top: 30px;
+    }
+    .globe-content {
+        padding: 30px 0 0 0;
+    }
+    .globe-content h2 {
+        font-size: 30px;
+        line-height: 1.4;
+    }
+    .down-app-wrap h2 {
+        font-size: 40px;
+        line-height: 1.4;
+    }
+    .down-app-wrap p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .store-btns img {
+        width: 150px;
+    }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="92" viewBox="0 0 102 92">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.122" x2="0.5" y2="1.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9aae9f"/>
+      <stop offset="1" stop-color="#334d3d" stop-opacity="0.459"/>
+    </linearGradient>
+  </defs>
+  <g id="privacy-security" transform="translate(-1124.626 -1695.419)">
+    <g id="Rectangle_7419" data-name="Rectangle 7419" transform="translate(1124.626 1695.419)" stroke="#10bd53" stroke-width="4" fill="url(#linear-gradient)">
+      <rect width="102" height="92" rx="16" stroke="none"/>
+      <rect x="2" y="2" width="98" height="88" rx="14" fill="none"/>
+    </g>
+    <path id="Path_1967" data-name="Path 1967" d="M1154.042,1722.594s-.61,20.482,3.631,27.995,16.058,12.559,16.058,12.559,12.442-4.014,17.381-14.152,2.378-26.4,2.378-26.4a29.354,29.354,0,0,1-10.726-1.018,27.81,27.81,0,0,1-9.033-5.538l-9.115,5.538Z" transform="translate(2.764 1.761)" fill="#10bd53"/>
+  </g>
+</svg>
