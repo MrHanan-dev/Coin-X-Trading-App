@@ -72,7 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/62b56eb8-2817-4326-9d10-8d5ac65b0927" />
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/1e8f7197-49bc-4721-a185-6b9c5931b298" />
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/088bfab2-b0c9-4abe-a5c8-509278f00467" />
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/088bfab2-b0c9-4abe-a5c8-509278f00467" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5c20af8f-b5e8-46d9-8996-8e34a8559ded" />
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/15da8c9f-8db3-4f75-85b2-a586a3b8346c" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/682527ed-586d-4533-ac23-fe2125b932fa" />
+
+
+
+
 
 
 
